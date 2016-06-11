@@ -1,5 +1,6 @@
 # Postits
 A Linux Desktop Stickynotes Application
+![Postits Preview](http://i.imgur.com/14O4XmN.png)
 
 Stickynotes always was a very useful application when I once was a Windows User. The switch to Linux lost me hundred things, while Sticky Notes was one of them.
 
@@ -12,14 +13,15 @@ Postits is written using Vala, is in a very early stage, just days old, might no
 - [x] Primary UI
 - [x] Sqlite Integration
 - [ ] Save and Reload Notes
-- [ ] Notes Manager
+- [ ] Notes Manager and Preferences
 - [ ] Bugs
 - [ ] Testing
 - [ ] Packaging
 
+Libraries required to build<br />
 gtk+-3.0<br />
 sqlite3<br />
-valac
+valac (Vala Compiler)
 
 Compile using
  
