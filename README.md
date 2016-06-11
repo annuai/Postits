@@ -14,5 +14,6 @@ valac
 Compile using
  
     valac "postits.vala" --pkg  gtk+-3.0 --pkg sqlite3
-
 Updates soon.
+
+Read about my [Postits Story](http://annu.co/blog/postits-gui-app-development-story/)
