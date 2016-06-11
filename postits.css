@@ -1,0 +1,18 @@
+* {
+      background-color: #F9DD4E;
+	border:none;
+    }
+
+GtkHeaderBar{
+background-color: #FFEC7F;
+}
+.window{
+background-color: #FFEC7F;
+}
+.textview{
+background-color: #FFEC7F;
+font-size:18px;
+font-family:"Selawik Light";
+font-style:oblique;
+color: #FFFFFF;
+}
